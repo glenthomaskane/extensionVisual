@@ -1,5 +1,6 @@
 # Fichiers .txt (comme demandé)
 *.txt
+*.vsix
 
 # Dossiers et fichiers VS Code temporaires / personnels
 .vscode/
