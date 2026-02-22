@@ -1,0 +1,7 @@
+cd /d C:\
+echo Dossier actuel : %cd%
+cd /d "C:\Users\kane\Desktop\MesExtensions\paperpen/paperpen"
+
+cd /d C:\
+cd /d "C:\Users\kane\Desktop\MesExtensions\paperpen/paperpen"
+
